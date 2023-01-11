@@ -1,0 +1,23 @@
+.zodiac {
+    width: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    /* position: absolute; */
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .zodiac img {
+    width: 100px;
+  }
+  
+  .zodiac .name {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
